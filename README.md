@@ -1,10 +1,9 @@
 # Vidly
-Video rental store - MVC application
+Web application used at video rental store.
 
 Technologies:
-- C#
-- ASP.NET
-- Entity Framework
-- HTML, CSS, JavaScript
-- MVC 5
+- C#, ASP.NET, Web API
+- HTML, CSS, Bootstrap
+- JavaScript, jQuery, AJAX
+- Entity Framework, MVC 5
 - SQL Server
